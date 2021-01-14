@@ -1,6 +1,7 @@
 ﻿using Classes;
 using Microsoft.EntityFrameworkCore;
 using System;
+using ClasseDeTabela;
 
 namespace AtendimentosSD
 {
@@ -12,6 +13,7 @@ namespace AtendimentosSD
         }
 
         public DbSet<Atendimento> Atendimentos { get; set; }
+        public DbSet<TblAtendimentoDeltaLog> AtendimentosDeltaLog { get; set; }   
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {

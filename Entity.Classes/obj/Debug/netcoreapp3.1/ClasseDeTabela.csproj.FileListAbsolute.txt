@@ -16,3 +16,12 @@ C:\Users\lucas.coelho\source\repos\Ticket.ServiceDesk\Entity.Classes\obj\Debug\n
 C:\Users\lucas.coelho\source\repos\Ticket.ServiceDesk\Entity.Classes\obj\Debug\netcoreapp3.1\ClasseDeTabela.dll
 C:\Users\lucas.coelho\source\repos\Ticket.ServiceDesk\Entity.Classes\obj\Debug\netcoreapp3.1\ClasseDeTabela.pdb
 C:\Users\lucas.coelho\source\repos\Ticket.ServiceDesk\Entity.Classes\obj\Debug\netcoreapp3.1\ClasseDeTabela.csprojAssemblyReference.cache
+C:\Users\lucas.coelho\Desktop\Clone.Api.Atendimentos\Ticket.ServiceDesk\Entity.Classes\bin\Debug\netcoreapp3.1\ClasseDeTabela.deps.json
+C:\Users\lucas.coelho\Desktop\Clone.Api.Atendimentos\Ticket.ServiceDesk\Entity.Classes\bin\Debug\netcoreapp3.1\ClasseDeTabela.dll
+C:\Users\lucas.coelho\Desktop\Clone.Api.Atendimentos\Ticket.ServiceDesk\Entity.Classes\bin\Debug\netcoreapp3.1\ClasseDeTabela.pdb
+C:\Users\lucas.coelho\Desktop\Clone.Api.Atendimentos\Ticket.ServiceDesk\Entity.Classes\obj\Debug\netcoreapp3.1\ClasseDeTabela.csprojAssemblyReference.cache
+C:\Users\lucas.coelho\Desktop\Clone.Api.Atendimentos\Ticket.ServiceDesk\Entity.Classes\obj\Debug\netcoreapp3.1\ClasseDeTabela.AssemblyInfoInputs.cache
+C:\Users\lucas.coelho\Desktop\Clone.Api.Atendimentos\Ticket.ServiceDesk\Entity.Classes\obj\Debug\netcoreapp3.1\ClasseDeTabela.AssemblyInfo.cs
+C:\Users\lucas.coelho\Desktop\Clone.Api.Atendimentos\Ticket.ServiceDesk\Entity.Classes\obj\Debug\netcoreapp3.1\ClasseDeTabela.csproj.CoreCompileInputs.cache
+C:\Users\lucas.coelho\Desktop\Clone.Api.Atendimentos\Ticket.ServiceDesk\Entity.Classes\obj\Debug\netcoreapp3.1\ClasseDeTabela.dll
+C:\Users\lucas.coelho\Desktop\Clone.Api.Atendimentos\Ticket.ServiceDesk\Entity.Classes\obj\Debug\netcoreapp3.1\ClasseDeTabela.pdb

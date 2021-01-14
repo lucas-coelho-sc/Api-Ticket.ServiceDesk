@@ -7803,11 +7803,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lucas.coelho\\source\\repos\\Ticket.ServiceDesk\\Api.Ticket.Smartphone\\Api.Atendimentos.csproj",
+      "projectUniqueName": "C:\\Users\\lucas.coelho\\Desktop\\Clone.Api.Atendimentos\\Ticket.ServiceDesk\\Api.Ticket.Smartphone\\Api.Atendimentos.csproj",
       "projectName": "Api.Atendimentos",
-      "projectPath": "C:\\Users\\lucas.coelho\\source\\repos\\Ticket.ServiceDesk\\Api.Ticket.Smartphone\\Api.Atendimentos.csproj",
+      "projectPath": "C:\\Users\\lucas.coelho\\Desktop\\Clone.Api.Atendimentos\\Ticket.ServiceDesk\\Api.Ticket.Smartphone\\Api.Atendimentos.csproj",
       "packagesPath": "C:\\Users\\lucas.coelho\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lucas.coelho\\source\\repos\\Ticket.ServiceDesk\\Api.Ticket.Smartphone\\obj\\",
+      "outputPath": "C:\\Users\\lucas.coelho\\Desktop\\Clone.Api.Atendimentos\\Ticket.ServiceDesk\\Api.Ticket.Smartphone\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lucas.coelho\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7824,11 +7824,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\lucas.coelho\\source\\repos\\Ticket.ServiceDesk\\Db.Ticket\\EF.AtendimentosSD.csproj": {
-              "projectPath": "C:\\Users\\lucas.coelho\\source\\repos\\Ticket.ServiceDesk\\Db.Ticket\\EF.AtendimentosSD.csproj"
+            "C:\\Users\\lucas.coelho\\Desktop\\Clone.Api.Atendimentos\\Ticket.ServiceDesk\\Db.Ticket\\EF.AtendimentosSD.csproj": {
+              "projectPath": "C:\\Users\\lucas.coelho\\Desktop\\Clone.Api.Atendimentos\\Ticket.ServiceDesk\\Db.Ticket\\EF.AtendimentosSD.csproj"
             },
-            "C:\\Users\\lucas.coelho\\source\\repos\\Ticket.ServiceDesk\\Entity.Classes\\ClasseDeTabela.csproj": {
-              "projectPath": "C:\\Users\\lucas.coelho\\source\\repos\\Ticket.ServiceDesk\\Entity.Classes\\ClasseDeTabela.csproj"
+            "C:\\Users\\lucas.coelho\\Desktop\\Clone.Api.Atendimentos\\Ticket.ServiceDesk\\Entity.Classes\\ClasseDeTabela.csproj": {
+              "projectPath": "C:\\Users\\lucas.coelho\\Desktop\\Clone.Api.Atendimentos\\Ticket.ServiceDesk\\Entity.Classes\\ClasseDeTabela.csproj"
             }
           }
         }
@@ -7912,7 +7912,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }

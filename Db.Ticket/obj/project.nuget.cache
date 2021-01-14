@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KIWt4y+IwtOpD3XYKB4ew6wmvUJtlZq63AgQ4/+J+FCRy2+Z+l0Llbws5Om0hYcPcHzIlJccA4Ri+flmcvjIUA==",
+  "dgSpecHash": "L2UGBSLc9BfzUmXU72OUrczfImQhfhHbxB3ETaGXZoOyql/jXlIJSxbLfUbBV5vv+/eZWQQCJl9A6OaZR9KHAg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lucas.coelho\\source\\repos\\Ticket.ServiceDesk\\Db.Ticket\\EF.AtendimentosSD.csproj",
+  "projectFilePath": "C:\\Users\\lucas.coelho\\Desktop\\Clone.Api.Atendimentos\\Ticket.ServiceDesk\\Db.Ticket\\EF.AtendimentosSD.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lucas.coelho\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\lucas.coelho\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

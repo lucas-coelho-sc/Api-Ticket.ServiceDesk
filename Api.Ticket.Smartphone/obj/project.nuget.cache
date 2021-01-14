@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JiKA9628eOtkwJauBhhexnYQ776pCDD4alntnlEwqaIXP3T8iaMn+Sz6QMb38oQ95TqXbko8pq571Bywyt0d+w==",
+  "dgSpecHash": "GvFRmaGZ1yzGCsCnJ1OV8jyC1c5imwtuSB3lkpXNqKuEqbLMKLM7VoAyuVYW04BJSAt++osbmVw7C/UZoHjU/A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lucas.coelho\\source\\repos\\Ticket.ServiceDesk\\Api.Ticket.Smartphone\\Api.Atendimentos.csproj",
+  "projectFilePath": "C:\\Users\\lucas.coelho\\Desktop\\Clone.Api.Atendimentos\\Ticket.ServiceDesk\\Api.Ticket.Smartphone\\Api.Atendimentos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lucas.coelho\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\lucas.coelho\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.1\\microsoft.aspnetcore.authentication.jwtbearer.5.0.1.nupkg.sha512",

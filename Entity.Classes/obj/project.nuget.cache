@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "y96PtbcfvQ83LmdsoyMTNMn1BIrNK15LAi6iTYesK4p/o0kTkJZH6Ct26s6DiOAQv7QQR+UTfTgbPJaqx+BDtA==",
+  "dgSpecHash": "PSF6OUblk4vvByXgk0YeR3celLUfo35Ed7LeFDt6kAWUdFVZEyogJuulIba0Uk7l4ExJTcRWzRZ6/J09UbAh2g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lucas.coelho\\source\\repos\\Ticket.ServiceDesk\\Entity.Classes\\ClasseDeTabela.csproj",
+  "projectFilePath": "C:\\Users\\lucas.coelho\\Desktop\\Clone.Api.Atendimentos\\Ticket.ServiceDesk\\Entity.Classes\\ClasseDeTabela.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
